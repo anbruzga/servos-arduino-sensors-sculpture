@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Motion-Activated Servo Control with PIR Sensor</title>
 </head>
 <body>
     <h1>Motion-Activated Servo Control with PIR Sensor</h1>
