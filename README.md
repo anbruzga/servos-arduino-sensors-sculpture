@@ -44,9 +44,19 @@
         <li>Serial communication for dynamic configuration updates.</li>
         <li>Code is supposed to be tidied up (not gonna happen, likely) as I don't have the physical project anymore.</li>
         <li>The code is overcommented for non-developer readability.</li>
+        <li>Issue - fast jerk on startup</li>
     </ul>
     <h2>📜 Additional Notes</h2>
     <p>Although the diagram includes multiple sensors, only an <strong>IR sensor</strong> was used in practice. Additionally, the Arduino was grounded through a cable from the <strong>buck converter</strong>, while the sensor received its grounding from the Arduino.</p>
+    <p>Purpose - moving sculpture</p>
+    
+![WhatsApp Image 2025-01-27 at 20 01 20_1d1c538a](https://github.com/user-attachments/assets/a7311d2e-7e4a-4ce0-862a-733697f4a356)
+
+![WhatsApp Image 2025-01-28 at 12 45 56_d187349c](https://github.com/user-attachments/assets/e46e3507-f4c3-4da6-91e9-202d29de92f6)
+
+![WhatsApp Image 2025-01-28 at 12 50 44_21603d7c](https://github.com/user-attachments/assets/38e96d13-5ff2-4b91-9ca1-b9cd8273dbf4)
+
+
 
 </body>
 </html>
